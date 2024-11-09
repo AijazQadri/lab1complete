@@ -2,6 +2,11 @@
 
 **LAB TASK 1:**
 
+**1.	Write a program that initialize five different strings using all the above-mentioned ways, i.e., 
+  a) string literals 
+b)	new keyword 
+also use intern method and show string immutability.**
+
 package com.mycompany.lab1labtask1;
 
 public class Lab1labtask1 {
@@ -22,6 +27,8 @@ public class Lab1labtask1 {
 
 **LAB TASK 2:**
 
+**2. Write a program to convert primitive data type Double into its respective wrapper object.**
+
 package com.mycompany.lab1labtask2;
 public class Lab1labtask2 {
 
@@ -34,6 +41,12 @@ public class Lab1labtask2 {
 
 
 **LAB TASK 3:**
+
+**3. Write a program that initialize five different strings and perform the following operations. 
+      a) Concatenate all five stings. 
+      b) Convert fourth string to uppercase. 
+c)	Find the substring from the concatenated string from 8 to onward **
+
 
 package com.mycompany.lab1labtask3;
 
@@ -60,6 +73,9 @@ public class Lab1labtask3 {
 }
 
 **LAB TASK 4:**
+
+**4. You are given two strings word1 and word2. Merge the strings by adding letters in alternating order, starting with word1. 
+If a string is longer than the other, append the additional letters onto the end of the merged string. Return the merged string**
 
 package com.mycompany.lab1labtask4;
 
@@ -92,8 +108,10 @@ public class Lab1labtask4 {
 
 **LAB TASK 5:**
 
-package com.mycompany.lab1labtask5;
+**5. Write a Java program to find the minimum and maximum values of Integer, Float, and Double using the respective wrapper class constants.**
 
+
+package com.mycompany.lab1labtask5;
 
 public class Lab1labtask5 {
 
@@ -127,6 +145,9 @@ public class Lab1labtask5 {
 
 **HOME TASK 1:**
 
+**1.	Write a JAVA program to perform Autoboxing and also implement different methods of wrapper class.**
+
+	 
 package com.mycompany.lab1hometask1;
 
 public class Lab1hometask1 {
@@ -152,6 +173,8 @@ public class Lab1hometask1 {
 }
 
 **HOME TASK 2:**
+
+**2.	Write a Java program to count the number of even and odd digits in a given integer using Autoboxing and Unboxing.**
 
 package com.mycompany.lab1hometask2;
 
@@ -185,6 +208,9 @@ public class Lab1hometask2 {
 
 
 **HOME TASK 3:**
+
+**3. Write a Java program to find the absolute value, square root, and power of a number using Math class methods, while utilizing Autoboxing and Wrapper classes.**
+
 package com.mycompany.lab1hometask3;
 import java.util.*;
 public class Lab1hometask3 {
@@ -212,6 +238,9 @@ public class Lab1hometask3 {
 }
 
 **HOME TASK 4:**
+
+**4.	Write a Java program to reverse only the vowels in a string.**
+
 
 package com.mycompany.lab1hometask4;
 import java.util.*;
@@ -245,6 +274,8 @@ public class Lab1hometask4 {
 
 
 **HOME TASK 5:**
+
+**5. Write a Java program to find the longest word in a sentence.**
 
 package com.mycompany.lab1hometask5;
 
